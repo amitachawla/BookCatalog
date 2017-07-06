@@ -1,0 +1,12 @@
+@model string
+@using Catalog.Web.Models
+
+<form asp-action="DeleteBook" role="form">
+    @Html.Partial("_ModalHeader", new ModalHeader { Heading = "Delete Book" })
+
+    <div class="modal-body form-horizontal">
+        Are you sure you want to delete @Model?
+    </div>
+    @Html.Partial("_ModalFooter", new ModalFooter { SubmitButtonText = "Delete" })
+</form>
+

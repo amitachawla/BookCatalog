@@ -1,0 +1,7 @@
+C:\Users\amita\BookCatalog\BookCatalog\Catalog.Data\bin\Debug\netcoreapp1.0\Catalog.Data.deps.json
+C:\Users\amita\BookCatalog\BookCatalog\Catalog.Data\bin\Debug\netcoreapp1.0\Catalog.Data.dll
+C:\Users\amita\BookCatalog\BookCatalog\Catalog.Data\bin\Debug\netcoreapp1.0\Catalog.Data.pdb
+C:\Users\amita\BookCatalog\BookCatalog\Catalog.Data\obj\Debug\netcoreapp1.0\Catalog.Data.csprojResolveAssemblyReference.cache
+C:\Users\amita\BookCatalog\BookCatalog\Catalog.Data\obj\Debug\netcoreapp1.0\Catalog.Data.AssemblyInfo.cs
+C:\Users\amita\BookCatalog\BookCatalog\Catalog.Data\obj\Debug\netcoreapp1.0\Catalog.Data.dll
+C:\Users\amita\BookCatalog\BookCatalog\Catalog.Data\obj\Debug\netcoreapp1.0\Catalog.Data.pdb
