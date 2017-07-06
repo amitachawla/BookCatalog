@@ -80,7 +80,7 @@ namespace Catalog.Web.Controllers
             return PartialView("_DeleteBook", book?.Name);
         }
         [HttpPost]
-        public ActionResult DeleteBook(long id, FormCollection form)
+        public ActionResult DeleteBook(long id, IFormCollection form)
         {
             Book book = repoBook.Get(id);
             if (book != null)
